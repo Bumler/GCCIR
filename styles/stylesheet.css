@@ -1,0 +1,19 @@
+.hero {
+  background: url(../img/rugby_pitch2.jpg) no-repeat top;
+  background-size: cover;
+  height: 50vh; }
+  .hero h1 {
+    color: #fff; }
+  .hero p {
+    color: #fff;
+    font-weight: 200; }
+  .hero .tech-img {
+    background: url(../img/logo.png) no-repeat;
+    background-size: cover;
+    height: 9rem;
+    width: 9rem;
+    display: block; }
+  @media only screen and (min-width: 40.063em) {
+    .hero .tech-img {
+      height: 18rem;
+      width: 18rem; } }
